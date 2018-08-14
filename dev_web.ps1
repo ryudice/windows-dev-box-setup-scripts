@@ -73,7 +73,7 @@ choco install -y cake.portable
 choco install -y slack
 choco install -y awscli
 choco install -y gitversion.portable
-choco install -y vmwarevsphereclient
+#choco install -y vmwarevsphereclient
 choco install -y terraform
 choco install -y sbt
 choco install -y packer
