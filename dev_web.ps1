@@ -89,7 +89,18 @@ choco install -y sql-server-management-studio
 choco install -y foxitreader
 choco install -y listary
 choco install -y vlc
-
+choco install -y docker-desktop
+choco install -y datagrip
+choco install -y intellijidea-ultimate
+choco install -y goland
+choco install -y microsoft-windows-terminal
+choco install -y everything
+choco install -y ditto
+choco install -y dotnetcore-sdk --version=2.1.809 --force
+choco install -y dotnetcore-sdk
+choco install microsoft-teams -y
+choco install -y jetbrains-rider
+choco install -y golang
 
 choco install -y IIS-WebServerRole -source WindowsFeatures
 
